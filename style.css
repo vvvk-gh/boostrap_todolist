@@ -1,0 +1,4 @@
+#ulList > li.done {
+    color :slategrey;
+    text-decoration-line: line-through;
+} 
